@@ -1,0 +1,1 @@
+# Smartthings Simple Smart Switch
